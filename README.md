@@ -21,6 +21,6 @@ discord: cire#5803
 
 What's your age? **13**
 
-What's your gender? Female (she/her)
+What's your gender? **Female (she/her)**
 
 What IDE do you use? **IntelliJ**
