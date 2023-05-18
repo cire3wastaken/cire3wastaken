@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hello! Here's some info about me.
 
-<!--
-**cire3wastaken/cire3wastaken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Projects
 
-Here are some ideas to get you started:
+I'm currently, and for the foreseeable future, working on a fork of a popular desktop game with @ThisIsALegitUsername that can run in a browser.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+
+e-mail: cire3mc@gmail.com 
+
+discord: cire#5803
+
+## I can code in a few different languages.
+
+* C++ (Best Language)
+* Java. (High understanding)
+* Javascript. (Intermediate)
+* PHP (Intermediate)
+* SQL (Intermediate)
+## FAQ
+
+What's your age? **13**
+
+What's your gender? Female (she/her)
+
+What IDE do you use? **IntelliJ**
