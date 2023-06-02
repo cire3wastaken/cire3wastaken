@@ -1,4 +1,4 @@
-<!--# Hello! Here's some info about me.
+# Hello! Here's some info about me.
 
 ## Projects
 
@@ -21,6 +21,10 @@ discord: cire#5803
 
 What's your age? **13**
 
-What's your gender? **Female (she/her)**
+What IDE do you use? **IntelliJ**
 
-What IDE do you use? **IntelliJ**-->
+
+Credits to @ThisIsALegitUsername for this format.
+
+
+Asianclient -> asianclient.repl.co
