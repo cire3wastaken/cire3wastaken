@@ -6,9 +6,7 @@ I'm currently, and for the foreseeable future, working on a fork of a popular de
 
 ## Contact
 
-e-mail: cire3mc@gmail.com 
-
-discord: cire#5803
+discord: sire3
 
 ## I can code in a few different languages.
 
