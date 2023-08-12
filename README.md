@@ -23,6 +23,3 @@ What IDE do you use? **IntelliJ**
 
 
 Credits to @ThisIsALegitUsername for this format.
-
-
-Asianclient -> asianclient.repl.co
