@@ -1,9 +1,4 @@
 # Hello! Here's some info about me.
-
-## Projects
-
-I'm currently, and for the foreseeable future, working on a fork of a popular desktop game with @ThisIsALegitUsername that can run in a browser.
-
 ## Contact
 
 discord: sire3
